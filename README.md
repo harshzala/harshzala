@@ -1,15 +1,17 @@
-<h1 align="center">Namaste,🙏 I'm Harsh Zala👋</h1>
+<h1 align="center">print('Namaste,🙏 I'm Harsh Zala👋')</h1>
 <h3 align="center">Data science enthusiastic from IIT'M</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshzala&label=Profile%20views&color=0e75b6&style=flat" alt="harshzala" /> </p>
 
 - 🔭 I’m currently **exploring field of data science**
 
-- 🌱 I’m currently learning **as much as i can according to my ability.**
+- 🌱 I’m currently learning **as much as i can.There is no age limit for learning new things😉**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for **building new connections**
+- 🤝 I’m looking for **building new connections and learn from their experience**
+
+- 😄 Pronouns **he/his/him**
 
 - 📫 How to reach me **hzala408@gmail.com**
 
@@ -25,11 +27,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshzala&show_icons=true&locale=en&layout=compact" alt="harshzala" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshzala&show_icons=true&locale=en" alt="harshzala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshzala&" alt="harshzala" /></p>
+
 
 <!---
 harshzala/harshzala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
