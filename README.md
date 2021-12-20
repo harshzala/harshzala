@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for **building new connections and learn from their experience**
+- 🤝 I’m looking for **building new connections and network**
 
 - 😄 Pronouns **he/his/him**
 
