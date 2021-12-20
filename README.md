@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hzala408@gmail.com**
 
-- ⚡ Fun fact **I am inevitable🤌**
+- ⚡ Fun fact **I am inevitabl😌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
