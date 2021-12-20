@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **exploring field of data science**
 
-- 🌱 I’m currently learning **evereverything 😉**
+- 🌱 I’m currently learning **everything 😉**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
